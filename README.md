@@ -1,1 +1,1 @@
-# Dashboard
+# Dashboard is interactive 
